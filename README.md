@@ -9,4 +9,5 @@ EmKa Akademi'ye, Bursa Uludağ Yazılım Topluluğu'na teşekkür ederim.
 
 
 Kullanılan dataset: horses_or_humans
+
 Kullanılan model: ResNet50
