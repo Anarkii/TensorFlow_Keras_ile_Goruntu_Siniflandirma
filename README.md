@@ -6,3 +6,7 @@ Colab üzerinde hazır kodları kullanmak yerine Live Coding şekilde ilerlenmi�
 ANN, Basic CNN, CNN modelleri, Transfer Learning gibi konulara değinilmiştir.
 
 EmKa Akademi'ye, Bursa Uludağ Yazılım Topluluğu'na teşekkür ederim.
+
+
+Kullanılan dataset: horses_or_humans
+Kullanılan model: ResNet50
